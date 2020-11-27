@@ -12,7 +12,7 @@ Collider and the Compact Muon Solenoid ; this setup and its subcomponents will b
 will be the event identification and reconstruction processes that provide us with the data used to
 carry out our analysis.
 
-After explaining the data collection we then will explain in detail the studied supersymmetric process, define
+After explaining the data collection we will then explain in detail the studied supersymmetric process, define
 our signal and background and using Monte Carlo simulations we will establish our cinematic *regions of interest*.
 The background in these regions is mostly made up from errors in the determination of the source of the final state 
 particles. It is then deemed possible to train an algorithm that does a better classification of the final-state-particle's 
