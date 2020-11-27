@@ -19,7 +19,7 @@ particles. It is then deemed possible to train an algorithm that does a better c
 origin and minimizes the error in order to diminish the experimental background.
 
 The obvious next step is to study a multivariate method that will help with this particle tagging. We will try to 
-train a the algorithm so that we get a classification with a lower error rate than the original classification. Our 
+train the algorithm so that we get a classification with a lower error rate than the original classification. Our 
 choice of algorithm for this purpose is going to be a neural network.
 
 To conclude this study we then will apply and compare the particle source predictions by the original classification and 
