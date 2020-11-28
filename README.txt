@@ -22,6 +22,6 @@ The obvious next step is to study a multivariate method that will help with this
 train the algorithm so that we get a classification with a lower error rate than the original classification. Our 
 choice of algorithm for this purpose is going to be a neural network.
 
-To conclude this study we then will apply and compare the particle source predictions by the original classification and 
+To conclude this study we will then apply and compare the particle source predictions by the original classification and 
 our trained algorithm in the regions of interest so to quantitatively evaluate the improvement in the predictions and the
 measures of our process.
