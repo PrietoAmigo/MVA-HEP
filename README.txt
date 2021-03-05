@@ -1,4 +1,4 @@
-Multivariate classification algorithm comparison (applied to HEP)
+Multivariate Classification Algorithms Comparison (applied to HEP)
 
 
 The focus of this project is to study a *new physics* process. We briefly introduce the Standard
